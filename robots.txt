@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://hudulidu.github.io/sitemap/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/Ofb/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/ktB/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/aVO/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/XGF/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/Oex/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/vqX/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/Bgq/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/eNd/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/ZyK/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/AKX/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/xhn/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/JmG/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/anY/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/WaU/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/jIL/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/gKj/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/uCl/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/RmL/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/LQm/sitemap_index.hudulidu
+Sitemap: https://hudulidu.github.io/Qwh/sitemap_index.hudulidu
